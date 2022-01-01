@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639350948 source:e:\code blocs\laba-4-redakt\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
